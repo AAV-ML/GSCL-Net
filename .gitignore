@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.ckpt
+embeddings/*.pt
+_preds/
+ensemble_scatter_*.png
+.vscode/
+.env
+.DS_Store
