@@ -6,5 +6,6 @@ embeddings/*.pt
 _preds/
 ensemble_scatter_*.png
 .vscode/
+.idea/
 .env
 .DS_Store

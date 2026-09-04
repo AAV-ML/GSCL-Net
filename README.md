@@ -55,4 +55,4 @@ embeddings/esm2_features_aligned.pt
 ```
 
 The tensor must have shape `(59549, 7, 480)` and must use the same row order as
-`data/converted.csv`. The encoder is `esm2_t12_35M_UR50D`.
+`data/Production.csv`. The encoder is `esm2_t12_35M_UR50D`.
